@@ -1,0 +1,17 @@
+.Card {
+    border: solid green 5px;
+    margin-left: 2%;
+    margin-top: 4%;
+    width: 30%
+}
+
+.Content {
+    color: green;
+    text-align: left;
+    padding: 3%;
+    word-break: break-all
+}
+
+.Line{
+    margin: 5%
+}

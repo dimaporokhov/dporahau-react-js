@@ -1,0 +1,8 @@
+.Header {
+    border: 5px solid blue;
+}
+
+.Header-text {
+    color: blue;
+    padding: 1%
+}
